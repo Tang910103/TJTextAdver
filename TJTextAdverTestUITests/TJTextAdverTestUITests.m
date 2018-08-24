@@ -2,8 +2,8 @@
 //  TJTextAdverTestUITests.m
 //  TJTextAdverTestUITests
 //
-//  Created by Tang杰 on 17/3/22.
-//  Copyright © 2017年 Tang杰. All rights reserved.
+//  Created by blm on 2018/8/24.
+//  Copyright © 2018年 blm. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
